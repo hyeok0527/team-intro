@@ -10,4 +10,5 @@ button { font: inherit; cursor: pointer; background: #20252b; color: white; bord
 button:focus-visible { outline: 3px solid #376994; outline-offset: 4px; }
 #count { font-size: 20px; }
 footer { margin-top: 32px; color: #59636f; font-size: 14px; }
+
 @media (max-width: 520px) { body { padding: 20px 12px; } main { padding: 28px 22px; } }
